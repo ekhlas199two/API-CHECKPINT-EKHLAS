@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+h1 {
+  color:rgb(54, 54, 161);
+  padding-top:20px
+}
+
+
+.cards{
+  margin-top:40px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+} 
+
+.card {
+  margin :20px;
+}
